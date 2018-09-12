@@ -44,3 +44,7 @@ GPL. Please refer to the LICENSE file for detailed information.
 Patches should be submitted to the ffmpeg-devel mailing list using
 `git format-patch` or `git send-email`. Github pull requests should be
 avoided because they are not part of our review process and will be ignored.
+
+
+https://medium.com/trusteddapps/golem-network-vs-render-farms-7a1101bda79c
+https://videohive.net/item/typoking-title-animation-kinetic-typography-text/11263341
